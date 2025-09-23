@@ -4,7 +4,7 @@ RU Finder
 * A lost and found website where student can post and claim lost items
 * Students are able to interact with each other through posts
 
-#Languages & Frameworks
-*Python
-*React
-*Django
+# Languages & Frameworks
+* Python
+* React
+* Django
